@@ -12,7 +12,7 @@ Welcome to the MERN stack simple project
 ```
 git clone https://github.com/yesudoss/my-mern-app.git
 ```
-```
+
 #### Run the service
 To run the frontend and backend service with docker:
 
